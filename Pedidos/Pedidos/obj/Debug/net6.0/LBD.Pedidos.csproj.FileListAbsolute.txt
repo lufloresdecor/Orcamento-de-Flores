@@ -1,0 +1,15 @@
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\bin\Debug\net6.0\LBD.Pedidos.deps.json
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\bin\Debug\net6.0\LBD.Pedidos.dll
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\bin\Debug\net6.0\LBD.Pedidos.pdb
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\bin\Debug\net6.0\LBD.Core.dll
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\bin\Debug\net6.0\LBD.Core.pdb
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\obj\Debug\net6.0\LBD.Pedidos.csproj.AssemblyReference.cache
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\obj\Debug\net6.0\LBD.Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\obj\Debug\net6.0\LBD.Pedidos.AssemblyInfoInputs.cache
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\obj\Debug\net6.0\LBD.Pedidos.AssemblyInfo.cs
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\obj\Debug\net6.0\LBD.Pedidos.csproj.CoreCompileInputs.cache
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\obj\Debug\net6.0\LBD.Pedidos.csproj.CopyComplete
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\obj\Debug\net6.0\LBD.Pedidos.dll
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\obj\Debug\net6.0\refint\LBD.Pedidos.dll
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\obj\Debug\net6.0\LBD.Pedidos.pdb
+D:\Estudos\ProjetoLuflores\Pedidos\Pedidos\obj\Debug\net6.0\ref\LBD.Pedidos.dll

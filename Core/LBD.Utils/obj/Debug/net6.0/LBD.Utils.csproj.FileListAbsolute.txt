@@ -1,0 +1,12 @@
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\bin\Debug\net6.0\LBD.Utils.deps.json
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\bin\Debug\net6.0\LBD.Utils.dll
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\bin\Debug\net6.0\LBD.Utils.pdb
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\obj\Debug\net6.0\LBD.Utils.csproj.AssemblyReference.cache
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\obj\Debug\net6.0\LBD.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\obj\Debug\net6.0\LBD.Utils.AssemblyInfoInputs.cache
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\obj\Debug\net6.0\LBD.Utils.AssemblyInfo.cs
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\obj\Debug\net6.0\LBD.Utils.csproj.CoreCompileInputs.cache
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\obj\Debug\net6.0\LBD.Utils.dll
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\obj\Debug\net6.0\refint\LBD.Utils.dll
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\obj\Debug\net6.0\LBD.Utils.pdb
+D:\Estudos\ProjetoLuflores\Core\LBD.Utils\obj\Debug\net6.0\ref\LBD.Utils.dll

@@ -1,0 +1,15 @@
+D:\Estudos\Pedidos\Pedidos\bin\Debug\net6.0\Pedidos.deps.json
+D:\Estudos\Pedidos\Pedidos\bin\Debug\net6.0\Pedidos.dll
+D:\Estudos\Pedidos\Pedidos\bin\Debug\net6.0\Pedidos.pdb
+D:\Estudos\Pedidos\Pedidos\bin\Debug\net6.0\LBD.Core.dll
+D:\Estudos\Pedidos\Pedidos\bin\Debug\net6.0\LBD.Core.pdb
+D:\Estudos\Pedidos\Pedidos\obj\Debug\net6.0\Pedidos.csproj.AssemblyReference.cache
+D:\Estudos\Pedidos\Pedidos\obj\Debug\net6.0\Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\Pedidos\Pedidos\obj\Debug\net6.0\Pedidos.AssemblyInfoInputs.cache
+D:\Estudos\Pedidos\Pedidos\obj\Debug\net6.0\Pedidos.AssemblyInfo.cs
+D:\Estudos\Pedidos\Pedidos\obj\Debug\net6.0\Pedidos.csproj.CoreCompileInputs.cache
+D:\Estudos\Pedidos\Pedidos\obj\Debug\net6.0\Pedidos.csproj.CopyComplete
+D:\Estudos\Pedidos\Pedidos\obj\Debug\net6.0\Pedidos.dll
+D:\Estudos\Pedidos\Pedidos\obj\Debug\net6.0\refint\Pedidos.dll
+D:\Estudos\Pedidos\Pedidos\obj\Debug\net6.0\Pedidos.pdb
+D:\Estudos\Pedidos\Pedidos\obj\Debug\net6.0\ref\Pedidos.dll

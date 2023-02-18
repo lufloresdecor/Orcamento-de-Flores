@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWGsBJ1/nBeR5bQNcFgecoGMcuChwrOlx1C0gM4CmDMxmJy0MZCCx/sCxTZhRrF+Ti1rAhI6LoIs8KcpCtfz+Q==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\ProjetoLuflores\\Core\\LBD.Core\\LBD.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

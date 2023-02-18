@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\FrmConsultaBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmBuscarFlores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmCadastrarRepresentante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Paginas\TabConsultarFlores.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Paginas\TabNovaFlor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Paginas\TabNovoFornecedor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+d+2MBCryTYmZldac0wjWoi8eZMLvGh1cJRoh+MFZCAyGI1bygyw0xiSOkotOioV/lkUmLUzYBY/739JeaI6w==",
+  "success": true,
+  "projectFilePath": "D:\\Estudos\\ProjetoLuflores\\Pedidos\\Pedidos\\LBD.Pedidos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0\\microsoft.entityframeworkcore.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
